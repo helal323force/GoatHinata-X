@@ -1,0 +1,14 @@
+node_modules/
+.env
+.env.*
+account.txt
+config.dev.json
+configCommands.dev.json
+fb_dtsg_data.json
+database/data/*
+!database/data/.gitkeep
+**/cache/
+**/*.log
+*.sqlite
+*.db
+.DS_Store
